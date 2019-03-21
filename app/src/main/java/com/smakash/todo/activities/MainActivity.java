@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
 
 
 
-        Log.w("MyApp", "onCreate: " + lang);
+
 
         super.onCreate(savedInstanceState);
         mContext = this;
