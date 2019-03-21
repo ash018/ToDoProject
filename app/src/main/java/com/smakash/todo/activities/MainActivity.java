@@ -66,11 +66,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        SharedPreferences settings = PreferenceManager.getDefaultSharedPreferences(this);
-        Configuration config = getBaseContext().getResources().getConfiguration();
-
-
-
 
 
         super.onCreate(savedInstanceState);
